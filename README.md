@@ -19,4 +19,5 @@ Veikimas
 Pateiktos dvi programos piešiančios panašų fraktalinį paeiksliuką. Viena iš jų pritaiko standartini fraktalų algoritmą, o kita - atskirų taškų tikimybinių metodu. Abiejų programų žingsnio valdiklis - tarpo (spacebar) klavišas. Paleidimas
 
 *fraktalai-t.c* - standartinis fraktalo piešimas. *make run*
+
 *fraktalai-ifs.c* - tikimybinis modelis. *make ifs*
