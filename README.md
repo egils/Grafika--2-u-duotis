@@ -1,4 +1,4 @@
-Grafika--2-u-duotis
+Grafika, 2 užduotis
 ===================
 
 Kompiuterinė grafika, Programų sistemų kurso 7 semestras, 2 atsiskaitomasis darbas
